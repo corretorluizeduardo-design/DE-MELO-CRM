@@ -1,0 +1,31 @@
+{
+  "deskcomm/retorno-de-paciente": {
+    "publisher_label": "Deskcomm",
+    "repository": "https://github.com/corretorluizeduardo-design/DE-MELO-CRM",
+    "tags": [
+      "clinica",
+      "retorno",
+      "agenda"
+    ],
+    "published_at": "2026-09-18"
+  },
+  "deskcomm/carrinho-abandonado": {
+    "publisher_label": "Deskcomm",
+    "repository": "https://github.com/corretorluizeduardo-design/DE-MELO-CRM",
+    "tags": [
+      "ecommerce",
+      "vendas",
+      "recuperacao"
+    ],
+    "published_at": "2026-09-18"
+  },
+  "deskcomm/primeira-semana": {
+    "publisher_label": "Deskcomm",
+    "repository": "https://github.com/corretorluizeduardo-design/DE-MELO-CRM",
+    "tags": [
+      "equipe",
+      "treinamento"
+    ],
+    "published_at": "2026-09-18"
+  }
+}
